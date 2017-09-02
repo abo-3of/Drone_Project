@@ -2,7 +2,7 @@
 
 #### Get the word out
 <br>
-<span style="color:gray">CIT-466 Project : Using Python for analysis data</span>
+<span style="color:gray">CIT-466 Project : Using Python for Analysis Data</span>
 <br>
 <span style="color:gray">on</span>
 <br>
